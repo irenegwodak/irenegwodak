@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola mundo 🖖</h1>
+<h1 align="center">🖖 Hola mundo 🖖</h1>
 
 <div align="center">
 <a href="http://linkedin.es/in/irenegwodak"><img alt="linkedin" style="padding: 0 10px;" src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoSize=auto"></a>
@@ -8,21 +8,24 @@
 
 ###
 
-👀 "**Vales tanto para un roto como para un descosido**" me dijo un jefe hace más de 10 años.
-
-😌 Y la verdad es que me siento muy orgullosa de ello, tengo la **curiosidad** en las venas, adoro las **manualidades** y los **retos**. Me encanta **investigar** y aprender nuevas herramientas.
-###
 <div align="center">
 <img img align="center" width="200" alt="laptop cat" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHk3ZWprc2V1amhsNmU4YXcwYWJ0eXVyMWxhNHQwbGV4ZDRmMGc3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif">
 </div>
 
 ###
-
-💻 En mi happy path busco crecer como **backend**, empecé con **Javascript** y **Python** se ha ganado un huequecito en mi corazón 🐍❤️
-
-⚡ Fanática de los **atajos de teclado**, el anime y los animales 🐭
+<div align="center">
+<p>
+💻 Happy path: <strong>backend</strong> 
+</p>  
+<p>
+🌱 Comienzos: <strong>Javascript</strong> y <strong>Python</strong> 🐍❤️
+</p>  
+<p>
+⚡ Fanática de los <strong>atajos de teclado</strong>, el anime y los animales 🐭
+</p>  
 
 Creo en el **buen feedback**, el asertivo que nos ayuda a crecer y mejorar, si quieres saber más **hagamos un café** ☕
+</div>
 
 
 
@@ -67,7 +70,7 @@ Creo en el **buen feedback**, el asertivo que nos ayuda a crecer y mejorar, si q
 
 
 <!-- ![Herramientas](https://img.shields.io/badge/Herramientas:-a1cca5?style=for-the-badge) -->
-- **Herramientas**
+- **Útiles y herramientas**
 
     ![Git](https://img.shields.io/badge/Git-8bcdcd?style=for-the-badge&logo=git&logoColor=000&logoSize=auto)
 ![GitHub](https://img.shields.io/badge/GitHub-8bcdcd?style=for-the-badge&logo=github&logoColor=000&logoSize=auto)
@@ -77,6 +80,8 @@ Creo en el **buen feedback**, el asertivo que nos ayuda a crecer y mejorar, si q
     ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-8bcdcd?logo=visualstudiocode&logoColor=000&style=for-the-badge&logoSize=auto)
 [![Prettier](https://img.shields.io/badge/prettier-8bcdcd?style=for-the-badge&logo=prettier&logoColor=000&logoSize=auto)](https://prettier.io/)
 [![ESLint](https://img.shields.io/badge/eslint-8bcdcd?style=for-the-badge&logo=eslint&logoColor=000&logoSize=auto)](https://eslint.org/)
+
+  [![Gulp](https://img.shields.io/badge/gulp-8bcdcd?style=for-the-badge&logo=gulp&logoColor=000&logoSize=auto)](https://gulpjs.com/)
 
     ![Discord](https://img.shields.io/badge/discord-8bcdcd?style=for-the-badge&logo=discord&logoColor=000&logoSize=auto)
 ![Slack](https://img.shields.io/badge/Slack-8bcdcd?style=for-the-badge&logo=slack&logoColor=000&logoSize=auto)
