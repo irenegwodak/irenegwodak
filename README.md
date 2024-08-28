@@ -8,26 +8,20 @@
 
 ###
 
-<div align="center">
-<img img align="center" width="200" alt="laptop cat" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHk3ZWprc2V1amhsNmU4YXcwYWJ0eXVyMWxhNHQwbGV4ZDRmMGc3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif">
-</div>
-
 ###
-<div align="center">
-<p>
-💻 Happy path: <strong>backend</strong> 
-</p>  
-<p>
+
+
+🚀 Happy path: <strong>backend developer</strong> 
+
+
 🌱 Comienzos: <strong>Javascript</strong> y <strong>Python</strong> 🐍❤️
 </p>  
-<p>
-⚡ Fanática de los <strong>atajos de teclado</strong>, el anime y los animales 🐭
-</p>  
+  
 
-Creo en el **buen feedback**, el asertivo que nos ayuda a crecer y mejorar, si quieres saber más **hagamos un café** ☕
-</div>
+[Conóceme un poco más](https://bento.me/irenegwodak)
 
 
+##
 
 ###
 
@@ -60,8 +54,8 @@ Creo en el **buen feedback**, el asertivo que nos ayuda a crecer y mejorar, si q
     [![HTML5](https://img.shields.io/badge/html5-a1cca5?style=for-the-badge&logo=html5&logoColor=000&logoSize=auto)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/css3-a1cca5?style=for-the-badge&logo=css3&logoColor=000&logoSize=auto)](https://www.w3schools.com/css/)
 [![SASS](https://img.shields.io/badge/sass-a1cca5?style=for-the-badge&logo=sass&logoColor=000&logoSize=auto)](https://sass-lang.com/)
-[![JavaScript](https://img.shields.io/badge/javascript-a1cca5?style=for-the-badge&logo=javascript&logoColor=000&logoSize=auto)](https://www.w3schools.com/js/DEFAULT.asp)
-[![ES6](https://img.shields.io/badge/es6-a1cca5?style=for-the-badge&logo=javascript&logoColor=000&logoSize=auto)](https://www.w3schools.com/js/js_es6.asp)
+
+  [![JavaScript](https://img.shields.io/badge/javascript-a1cca5?style=for-the-badge&logo=javascript&logoColor=000&logoSize=auto)](https://www.w3schools.com/js/DEFAULT.asp)
 [![TypeScript](https://img.shields.io/badge/typescript-a1cca5?style=for-the-badge&logo=typescript&logoColor=000&logoSize=auto)](https://www.typescriptlang.org/)
 [![React.js](https://img.shields.io/badge/React-a1cca5?style=for-the-badge&logo=react&logoColor=000&ue&logoSize=auto)](https://reactjs.org/)
 
