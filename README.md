@@ -2,80 +2,75 @@
 <h1 align="center">🖖 Hola mundo 🖖</h1>
 
 <div align="center">
-<a href="http://linkedin.es/in/irenegwodak"><img alt="linkedin" style="padding: 0 10px;" src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoSize=auto"></a>
-<a href="mailto:irenegwodak@gmail.com"><img alt="Enlace a Gmail" src="https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail&logoSize=auto"></a>
+<a href="http://linkedin.es/in/irenegwodak"><img alt="linkedin" style="padding: 0 10px;" src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&usr=irgwdk&logo=linkedin&logoSize=auto"></a>
+<a href="mailto:irenegwodak@gmail.com"><img alt="Enlace a Gmail" src="https://img.shields.io/badge/GMAIL-white?style=for-the-badge&usr=irgwdk&logo=gmail&logoSize=auto"></a>
 </div>
 
-###
-
-###
-
-
-🚀 Happy path: <strong>backend developer</strong> 
-
-
-🌱 Comienzos: <strong>Javascript</strong> y <strong>Python</strong> 🐍❤️
-</p>  
-  
-
-[Conóceme un poco más](https://bento.me/irenegwodak)
-
-
-##
-
-###
 
 ## 💻 Tech stack & herramientas:
 
 <img alt="Estadísticas" align="right" style="margin: 0 20px;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=irenegwodak&locale=es&layout=pie&theme=dark&include_all_commits=true&count_private=true&disable_animations=true&text_color=FFFFFF&bg_color=000000">
 
-
+<!-- 
+Backend - ffab3d -34-70-100
+BBDD - ffc859 -40-65-100
+Frontend - cccc66 - 60-50-80
+DevOps - b4d474 -80-45-83
+Agile - a3d08e -100-32-80
+Herramientas - 8bc3cc - 188-32-80
+Comunicación - A0C4E1 - 207-29-88
+ -->
   
-<!-- ![Backend](https://img.shields.io/badge/BACKEND:-50232e?style=for-the-badge) -->
 - **Backend**
   
-    [![Nodejs](https://img.shields.io/badge/node.js-f9b966?style=for-the-badge&logo=node.js&logoColor=000&logoSize=auto)](https://nodejs.org/en/)
-[![NPM](https://img.shields.io/badge/npm-f9b966?style=for-the-badge&logo=npm&logoColor=000&logoSize=auto)](https://www.npmjs.com/)
-[![JSON](https://img.shields.io/badge/json-f9b966?style=for-the-badge&logo=json&logoColor=000&logoSize=auto)](https://www.json.org/)
-[![Nestjs](https://img.shields.io/badge/nest.js-f9b966?style=for-the-badge&logo=nestjs&logoColor=000&logoSize=auto)](https://nestjs.com/)
-[![Express](https://img.shields.io/badge/express-f9b966?style=for-the-badge&logo=express&logoColor=000&goSize=auto)](https://expressjs.com/)
-[![Postman](https://img.shields.io/badge/Postman-f9b966?style=for-the-badge&logo=postman&logoColor=000&logoSize=auto)](https://www.postman.com/)
-[![JWT](https://img.shields.io/badge/JWT-f9b966?style=for-the-badge&logo=json-web-tokens&logoColor=000&logoSize=auto)](https://jwt.io/)
+    [![Nodejs](https://img.shields.io/badge/node.js-ffab3d?style=for-the-badge&usr=irgwdk&logo=node.js&logoColor=000&logoSize=auto)](https://nodejs.org/en/)
+[![NPM](https://img.shields.io/badge/npm-ffab3d?style=for-the-badge&usr=irgwdk&logo=npm&logoColor=000&logoSize=auto)](https://www.npmjs.com/)
+[![JSON](https://img.shields.io/badge/json-ffab3d?style=for-the-badge&usr=irgwdk&logo=json&logoColor=000&logoSize=auto)](https://www.json.org/)
 
-<!-- ![BBDD](https://img.shields.io/badge/Bases%20de%20datos:-cd5f2d?style=for-the-badge) -->
+  [![Express](https://img.shields.io/badge/express-ffab3d?style=for-the-badge&usr=irgwdk&logo=express&logoColor=000&goSize=auto)](https://expressjs.com/)
+[![Nestjs](https://img.shields.io/badge/nest.js-ffab3d?style=for-the-badge&usr=irgwdk&logo=nestjs&logoColor=000&logoSize=auto)](https://nestjs.com/)
+
+  [![Postman](https://img.shields.io/badge/Postman-ffab3d?style=for-the-badge&usr=irgwdk&logo=postman&logoColor=000&logoSize=auto)](https://www.postman.com/)
+[![JWT](https://img.shields.io/badge/JWT-ffab3d?style=for-the-badge&usr=irgwdk&logo=json-web-tokens&logoColor=000&logoSize=auto)](https://jwt.io/)
+
 - **BBDD**
 
-    [![MySQL](https://img.shields.io/badge/MySQL-bed57e?style=for-the-badge&logo=mysql&logoColor=000&logoSize=auto)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-bed57e?style=for-the-badge&logo=mongodb&logoColor=000&logoSize=auto)](https://www.mongodb.com/)
+    [![MySQL](https://img.shields.io/badge/MySQL-ffc859?style=for-the-badge&usr=irgwdk&logo=mysql&logoColor=000&logoSize=auto)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-ffc859?style=for-the-badge&usr=irgwdk&logo=mongodb&logoColor=000&logoSize=auto)](https://www.mongodb.com/)
 
-<!-- ![Frontend](https://img.shields.io/badge/Frontend:-f9b966?style=for-the-badge) -->
 - **Frontend**
 
-    [![HTML5](https://img.shields.io/badge/html5-a1cca5?style=for-the-badge&logo=html5&logoColor=000&logoSize=auto)](https://www.w3schools.com/html/)
-[![CSS3](https://img.shields.io/badge/css3-a1cca5?style=for-the-badge&logo=css3&logoColor=000&logoSize=auto)](https://www.w3schools.com/css/)
-[![SASS](https://img.shields.io/badge/sass-a1cca5?style=for-the-badge&logo=sass&logoColor=000&logoSize=auto)](https://sass-lang.com/)
-
-  [![JavaScript](https://img.shields.io/badge/javascript-a1cca5?style=for-the-badge&logo=javascript&logoColor=000&logoSize=auto)](https://www.w3schools.com/js/DEFAULT.asp)
-[![TypeScript](https://img.shields.io/badge/typescript-a1cca5?style=for-the-badge&logo=typescript&logoColor=000&logoSize=auto)](https://www.typescriptlang.org/)
-[![React.js](https://img.shields.io/badge/React-a1cca5?style=for-the-badge&logo=react&logoColor=000&ue&logoSize=auto)](https://reactjs.org/)
-
-    ![Vite](https://img.shields.io/badge/Vite-a1cca5?style=for-the-badge&logo=vite&logoColor=000&logoSize=auto)
-![SASS](https://img.shields.io/badge/SASS-a1cca5?style=for-the-badge&logo=sass&logoColor=000&goSize=auto)
+    [![HTML5](https://img.shields.io/badge/html5-cccc66?style=for-the-badge&usr=irgwdk&logo=html5&logoColor=000&logoSize=auto)](https://www.w3schools.com/html/)
+[![CSS3](https://img.shields.io/badge/css3-cccc66?style=for-the-badge&usr=irgwdk&logo=css3&logoColor=000&logoSize=auto)](https://www.w3schools.com/css/)
+[![React.js](https://img.shields.io/badge/React-cccc66?style=for-the-badge&usr=irgwdk&logo=react&logoColor=000&ue&logoSize=auto)](https://reactjs.org/)
 
 
-<!-- ![Herramientas](https://img.shields.io/badge/Herramientas:-a1cca5?style=for-the-badge) -->
-- **Útiles y herramientas**
+- **Filosofía DevOps**
 
-    ![Git](https://img.shields.io/badge/Git-8bcdcd?style=for-the-badge&logo=git&logoColor=000&logoSize=auto)
-![GitHub](https://img.shields.io/badge/GitHub-8bcdcd?style=for-the-badge&logo=github&logoColor=000&logoSize=auto)
+    [![Git](https://img.shields.io/badge/Git-b4d474?style=for-the-badge&usr=irgwdk&logo=git&logoColor=000&logoSize=auto)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-b4d474?style=for-the-badge&usr=irgwdk&logo=github&logoColor=000&logoSize=auto)](https://github.com/irenegwodak)
+  
+  [![Github Actions](https://img.shields.io/badge/Github%20Actions-b4d474?logo=githubactions&logoColor=000&style=for-the-badge&usr=irgwdk&logoSize=auto)](https://docs.github.com/es/actions)
 
-    ![Markdown](https://img.shields.io/badge/Markdown-8bcdcd?style=for-the-badge&logo=markdown&logoColor=000&logoSize=auto)
 
-    ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-8bcdcd?logo=visualstudiocode&logoColor=000&style=for-the-badge&logoSize=auto)
-[![Prettier](https://img.shields.io/badge/prettier-8bcdcd?style=for-the-badge&logo=prettier&logoColor=000&logoSize=auto)](https://prettier.io/)
-[![ESLint](https://img.shields.io/badge/eslint-8bcdcd?style=for-the-badge&logo=eslint&logoColor=000&logoSize=auto)](https://eslint.org/)
+- **Agile**
+  
+    ![Kanban](https://img.shields.io/badge/Kanban-a3d08e?logo=kanban&logoColor=000&style=for-the-badge&usr=irgwdk&logoSize=auto)
+[![Scrum](https://img.shields.io/badge/Scrum-a3d08e?logo=scrum&logoColor=000&style=for-the-badge&usr=irgwdk&logoSize=auto)](https://scrumguides.org/)
+[![Jira](https://img.shields.io/badge/Jira-a3d08e?logo=jira&logoColor=000&style=for-the-badge&usr=irgwdk&logoSize=auto)](https://scrumguides.org/)
 
-  [![Gulp](https://img.shields.io/badge/gulp-8bcdcd?style=for-the-badge&logo=gulp&logoColor=000&logoSize=auto)](https://gulpjs.com/)
 
-    ![Discord](https://img.shields.io/badge/discord-8bcdcd?style=for-the-badge&logo=discord&logoColor=000&logoSize=auto)
-![Slack](https://img.shields.io/badge/Slack-8bcdcd?style=for-the-badge&logo=slack&logoColor=000&logoSize=auto)
+- **Herramientas y utilidades**
+
+    [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-8bc3cc?logo=visualstudiocode&logoColor=000&style=for-the-badge&usr=irgwdk&logoSize=auto)](https://code.visualstudio.com/)
+[![Prettier](https://img.shields.io/badge/prettier-8bc3cc?style=for-the-badge&usr=irgwdk&logo=prettier&logoColor=000&logoSize=auto)](https://prettier.io/)
+[![ESLint](https://img.shields.io/badge/eslint-8bc3cc?style=for-the-badge&usr=irgwdk&logo=eslint&logoColor=000&logoSize=auto)](https://eslint.org/)
+
+    [![Markdown](https://img.shields.io/badge/Markdown-8bc3cc?style=for-the-badge&usr=irgwdk&logo=markdown&logoColor=000&logoSize=auto)](https://markdown.es/)
+
+  [![Gulp](https://img.shields.io/badge/gulp-8bc3cc?style=for-the-badge&usr=irgwdk&logo=gulp&logoColor=000&logoSize=auto)](https://gulpjs.com/)
+
+- **Comunicación**
+
+    ![Discord](https://img.shields.io/badge/discord-A0C4E1?style=for-the-badge&usr=irgwdk&logo=discord&logoColor=000&logoSize=auto)
+![Slack](https://img.shields.io/badge/Slack-A0C4E1?style=for-the-badge&usr=irgwdk&logo=slack&logoColor=000&logoSize=auto)
